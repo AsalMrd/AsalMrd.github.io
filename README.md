@@ -6,8 +6,8 @@ Lab_01:
 
 Lab_02: <a href="Assignment 3_NW.ipynb">Download File</a>
 
-Group members:
-  Asal Moradi
-  Nathalie Waelbroeck
-  Wessel van Elzakker
-  Marnix Broersma
+Group members: <br>
+  Asal Moradi <br>
+  Nathalie Waelbroeck <br>
+  Wessel van Elzakker <br>
+  Marnix Broersma <br>
