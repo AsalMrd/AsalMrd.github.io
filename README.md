@@ -28,14 +28,14 @@ Assignment 3: <a href="Assignment 3_NW.ipynb">Download File</a>
 - Exercise 6: investigate the relationship between the umber of reviews and the average rating for books in the dataset. Correlation coefficient, Pearson coefficient, scatter plot. 
 - Exercise 7: Calculate: mean, median, standard deviation, range, histogram, box plot. 
 
-Assignment 4: <a href="hw-04_Group5 Final.ipynb">Download File</a>
+Assignment 4: <a href="hw-04_Group5 Final.ipynb">Brightspace File</a> | <a href="Group5-hw-04.ipynb">Asal File</a>
 - Exercise 1: Build a Queen contiguity-based spatial weight matrix
 - Exercise 2: Calculate Moran's I and the P-Value
 - Exercise 3: Standardizing Spatial Matrices (the weight of each row sums to 1)
 - Exercise 4: Distance based weights
 - Exercise 5: Visualize a Moran Plot
 
-Assignment 5: <a href="Assingment 5.ipynb">Brightspace File</a> | <a href="Group5-hw-04.ipynb">Asal File</a>
+Assignment 5: <a href="Assingment 5.ipynb">Download File</a>
 - Data: Boston housing prices
 - Step 1: Load in the data (tab-delimited)
 - Step 2: use a previous function to automatically partition the data into a training and validation set.
