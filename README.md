@@ -8,7 +8,7 @@ Group members: <br>
 
 Assignment 1: <a href="FILE NAME">Download File</a>
 - Exercise 1: Write a properly documented function
-- Exercise 2: Create a tople
+- Exercise 2: Create a tuple
 - Exercise 3: Build a list that contains every prime number between 1 and 100
 - Exercise 4: Write a function to test the "prime-ness" of a number
 
@@ -43,12 +43,12 @@ Assignment 5: <a href="FILE NAME">Download File</a>
 - Step 4: Interpret the magnitude of each coefficient, the sign and the significance level.
 - Step 5: Create another regression by including two more variables OR remove two variables. 
 
-Lab_00
-Lab_01
-Lab_02
-Lab_03
-Lab_04
-Lab_05
+Lab_00: 
+Lab_01: 
+Lab_02: 
+Lab_03: 
+Lab_04: 
+Lab_05: 
 Lab_06: <a href="lab-06-Networks.ipynb">Download File</a>
 - Overview demonstration of OSMnx
 - Get shapefiles from OpenStreetMap
