@@ -6,7 +6,7 @@ Group members: <br>
   Wessel van Elzakker <br>
   Marnix Broersma <br>
 
-Assignment 1: <a href="FILE NAME">Download File</a>
+Assignment 1: <a href="Homework-00_FINAL.ipynb">Download File</a>
 - Exercise 1: Write a properly documented function
 - Exercise 2: Create a tuple
 - Exercise 3: Build a list that contains every prime number between 1 and 100
