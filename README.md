@@ -44,11 +44,17 @@ Assignment 5: <a href="FILE NAME">Download File</a>
 - Step 5: Create another regression by including two more variables OR remove two variables. 
 
 Lab_00: 
+
 Lab_01: 
+
 Lab_02: 
+
 Lab_03: 
+
 Lab_04: 
+
 Lab_05: 
+
 Lab_06: <a href="lab-06-Networks.ipynb">Download File</a>
 - Overview demonstration of OSMnx
 - Get shapefiles from OpenStreetMap
