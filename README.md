@@ -6,7 +6,7 @@ Group members: <br>
   Wessel van Elzakker <br>
   Marnix Broersma <br>
 
-Lab_01: 
+Lab_01: <a href="FILE NAME">Download File</a>
 - Exercise 1: Write a properly documented function
 - Exercise 2: Create a tople
 - Exercise 3: Build a list that contains every prime number between 1 and 100
@@ -35,7 +35,7 @@ Lab_04: <a href="hw-04_Group5 Final.ipynb">Download File</a>
 - Exercise 4: Distance based weights
 - Exercise 5: Visualize a Moran Plot
 
-Lab_05: 
+Lab_05: <a href="FILE NAME">Download File</a>
 - Data: Boston housing prices
 - Step 1: Load in the data (tab-delimited)
 - Step 2: use a previous function to automatically partition the data into a training and validation set.
