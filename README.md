@@ -35,7 +35,7 @@ Assignment 4: <a href="hw-04_Group5 Final.ipynb">Download File</a>
 - Exercise 4: Distance based weights
 - Exercise 5: Visualize a Moran Plot
 
-Assignment 5: <a href="Assingment 5.ipynb">Group File</a>
+Assignment 5: <a href="Assingment 5.ipynb">Brightspace File</a> <a href="Group5-hw-04.ipynb">Asal File</a>
 - Data: Boston housing prices
 - Step 1: Load in the data (tab-delimited)
 - Step 2: use a previous function to automatically partition the data into a training and validation set.
