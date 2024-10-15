@@ -36,7 +36,18 @@ Lab_03: <a href="hw-04_Group5 Final.ipynb">Download File</a>
 - Exercise 5: Visualize a Moran Plot
 
 Lab_04: 
-- Exercise 1:
+- Data: Boston housing prices
+- Step 1: Load in the data (tab-delimited)
+- Step 2: use a previous function to automatically partition the data into a training and validation set.
+- Step 3: create a multivariate regression model to explain the median value of owner-occupied homes.
+- Step 4: Interpret the magnitude of each coefficient, the sign and the significance level.
+- Step 5: Create another regression by including two more variables OR remove two variables. 
 
 Lab_05: 
-- Exercise 1: 
+- Overview demonstration of OSMnx
+- Get shapefiles from OpenStreetMap
+- Download and construct street networks (5 Methods)
+- Simplifying street network topography
+- Saving network to disk
+- Calculate basic network metrics
+- Use OSMnx to create an analyze a NetworkX street network
