@@ -6,20 +6,20 @@ Group members: <br>
   Wessel van Elzakker <br>
   Marnix Broersma <br>
 
-Lab_01: <a href="FILE NAME">Download File</a>
+Assignment 1: <a href="FILE NAME">Download File</a>
 - Exercise 1: Write a properly documented function
 - Exercise 2: Create a tople
 - Exercise 3: Build a list that contains every prime number between 1 and 100
 - Exercise 4: Write a function to test the "prime-ness" of a number
 
-Lab_02: <a href="Assignment2.ipynb">Download File</a>
+Assignment 2: <a href="Assignment2.ipynb">Download File</a>
 - Exercise 1: Write a Python code snippet using IPython.display to embed the Wikileaks google sheet directly into a Jupyter notebook
 - Exercise 2: Save the csv file to your computer and extract the column names into a dictionary.
 - Exercise 3: Plot a historgram, kernel density plot, and a bar chart (vertical and horizontal)
 - Exercise 4: Write a loop that iterates through each row of a DataFrame and prints the value of one specific column.
 - Exercise 5: create a list containing the "Civilians" and "Afghan forces". Obtain a monthly total count of casualties for both groups and create a line and bar plot. 
 
-Lab_03: <a href="Assignment 3_NW.ipynb">Download File</a>
+Assignment 3: <a href="Assignment 3_NW.ipynb">Download File</a>
 - Exercise 1: load the goodreads.csv data and change the column names.
 - Exercise 2: subset the data by creating a new dataframe with select columns.
 - Exercise 3: manage the missing data by counting # of missing values, dropping rows, excluding variables, replacing variables, or predicting missing data.
@@ -28,14 +28,14 @@ Lab_03: <a href="Assignment 3_NW.ipynb">Download File</a>
 - Exercise 6: investigate the relationship between the umber of reviews and the average rating for books in the dataset. Correlation coefficient, Pearson coefficient, scatter plot. 
 - Exercise 7: Calculate: mean, median, standard deviation, range, histogram, box plot. 
 
-Lab_04: <a href="hw-04_Group5 Final.ipynb">Download File</a>
+Assignment 4: <a href="hw-04_Group5 Final.ipynb">Download File</a>
 - Exercise 1: Build a Queen contiguity-based spatial weight matrix
 - Exercise 2: Calculate Moran's I and the P-Value
 - Exercise 3: Standardizing Spatial Matrices (the weight of each row sums to 1)
 - Exercise 4: Distance based weights
 - Exercise 5: Visualize a Moran Plot
 
-Lab_05: <a href="FILE NAME">Download File</a>
+Assignment 5: <a href="FILE NAME">Download File</a>
 - Data: Boston housing prices
 - Step 1: Load in the data (tab-delimited)
 - Step 2: use a previous function to automatically partition the data into a training and validation set.
@@ -43,6 +43,12 @@ Lab_05: <a href="FILE NAME">Download File</a>
 - Step 4: Interpret the magnitude of each coefficient, the sign and the significance level.
 - Step 5: Create another regression by including two more variables OR remove two variables. 
 
+Lab_00
+Lab_01
+Lab_02
+Lab_03
+Lab_04
+Lab_05
 Lab_06: <a href="lab-06-Networks.ipynb">Download File</a>
 - Overview demonstration of OSMnx
 - Get shapefiles from OpenStreetMap
