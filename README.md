@@ -12,7 +12,7 @@ Lab_01:
 - Exercise 3: Build a list that contains every prime number between 1 and 100
 - Exercise 4: Write a function to test the "prime-ness" of a number
 
-Lab_02: 
+Lab_02: <a href="Assignment2.ipynb">Download File</a>
 - Exercise 1: Write a Python code snippet using IPython.display to embed the Wikileaks google sheet directly into a Jupyter notebook
 - Exercise 2: Save the csv file to your computer and extract the column names into a dictionary.
 - Exercise 3: Plot a historgram, kernel density plot, and a bar chart (vertical and horizontal)
