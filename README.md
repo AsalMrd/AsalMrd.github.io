@@ -54,35 +54,57 @@ Lab_00: <a href="lab-00.ipynb">Download File</a>
 - Functions: a reusable block of code that does a specific task. There are pre=defined functions, or you can make your own.
 - Introduction to Numpy: array, tensors' definition (scalar, vector, matrix, 3D array, etc), broadcasting 
 
-Lab_01 Part 1: 
+Lab_01 Part 1: <a href="lab-01-part-01.ipynb">Download File</a>
 - Data Munging
 - Histogram
 - Kernel Density Plot
 - Line and Bar Plot
 
-Lab_01 Part 2:
+Lab_01 Part 2: <a href="lab-01-part-02.ipynb">Download File</a>
 - Obtaining raw data: The Liverpool Census Data Pack
 - Preparing the data: create the table from the previous notebook
 - Investigate the data: delve deeper into the census data pack
 
-Lab_02 Part 1: 
+Lab_03 Part 1: <a href="lab-03-part-01.ipynb">Download File</a>
 - create data: DataFrame and Series
 - read data files
 - indexing data
 - groupwise analysis (advanced skill)
 - additional tools - summary functions, maps, Dtypes, Missing data, renaming, combining data
 
-Lab_02 Part 2: 
+Lab_03 Part 2: <a href="lab-03-part-02.ipynb">Download File</a>
 - Basic EDA workflow
 - Loading and cleaning with Pandas (read the data, examine the dataframe, deal with missing values.
 - Parsing and completing the data frame
 - grouping
 
-Lab_03: 
+Lab_04 Part 1: <a href="lab-04-part-01.ipynb">Download File</a>
+- Overview of OSMnx
+- get shapefile from OpenStreet Map
+- download and construct street networks
+- simplify street network topography
+- saving networks to disk
+- calculate basic network metrics
+- use OSMnx to create and analyze NetworkX street network
+- spatial weights: queen contiguity, distance, block weights, standardizing matrices, reading and writing spatial weights, spatial lag, moran plot
 
-Lab_04: 
+Lab_04 Part 2: <a href="lab-04-part-02.ipynb">Download File</a>
+- Loading and exploring the data
+- spatial weight matrix
+- global spatial autocorrelation: moran plot and moran's I
+- local spatial autocorrelation
 
-Lab_05: 
+Lab_05 Part 1: <a href="lab-05-part-01">Download File</a>
+- plotting, simple linear regression, K-NN Regression
+- building a regression model with statsmodels and sklearn
+- using the statsmodels package
+- using the sklearn package
+
+Lab_05 Part 2: <a href="lab-05-part-02">Download File</a>
+- Advanced regression techniques
+- A primer
+- polynomial regression with cab data: linear and polynomial
+- multivariate regression and exploring the football data
 
 Lab_06: <a href="lab-06-Networks.ipynb">Download File</a>
 - Overview demonstration of OSMnx
