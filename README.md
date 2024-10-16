@@ -43,11 +43,40 @@ Assignment 5: <a href="Assingment 5.ipynb">Download File</a>
 - Step 4: Interpret the magnitude of each coefficient, the sign and the significance level.
 - Step 5: Create another regression by including two more variables OR remove two variables. 
 
-Lab_00: 
+Lab_00: <a href="lab-00.ipynb">Download File</a>
+- Cells: code vs markdown
+- Tuples: immutable sequence of Python objects
+- "for" loops: allow you to repeat a particular action or task over a sequence
+- "if" statements: allow you to select or restrict looping actions to only those cases that meet a condition(s) you specify in the statement.
+- Values: integer, float, or string
+- [] Lists: an ordered sequence of values that can be any mix of values (integer, float, string)
+- {} Dictionaries: an unordered collection of "keys" (i.e. name) and "values" (i.e. age). ages = {'Ana': 24, 'John': 20}
+- Functions: a reusable block of code that does a specific task. There are pre=defined functions, or you can make your own.
+- Introduction to Numpy: array, tensors' definition (scalar, vector, matrix, 3D array, etc), broadcasting 
 
-Lab_01: 
+Lab_01 Part 1: 
+- Data Munging
+- Histogram
+- Kernel Density Plot
+- Line and Bar Plot
 
-Lab_02: 
+Lab_01 Part 2:
+- Obtaining raw data: The Liverpool Census Data Pack
+- Preparing the data: create the table from the previous notebook
+- Investigate the data: delve deeper into the census data pack
+
+Lab_02 Part 1: 
+- create data: DataFrame and Series
+- read data files
+- indexing data
+- groupwise analysis (advanced skill)
+- additional tools - summary functions, maps, Dtypes, Missing data, renaming, combining data
+
+Lab_02 Part 2: 
+- Basic EDA workflow
+- Loading and cleaning with Pandas (read the data, examine the dataframe, deal with missing values.
+- Parsing and completing the data frame
+- grouping
 
 Lab_03: 
 
